@@ -43,8 +43,10 @@ Dashboard Features:
   - Popular Genres & Production Companies
   - IMDb Ratings by Production Company
   - Monthly Release Trends
-  - Interactive Filters (Genre, Weekday/Weekend)
+  - Interactive Filters (Genre, Weekday/Weekend) 
 
+
+<img src="d1.png" width="800"/>
 
 Design System
 Theme: #2C2C2C (Dark Cinematic)
