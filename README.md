@@ -15,8 +15,12 @@
 ---
 
 ## 🚀 Workflow  
+<p align="center"> <img src="d1.png" width="800"/> </p>
+
 
 ### 📥 Data Collection  
+
+
 ```python
 # Tools Used
 - BeautifulSoup (Web Scraping)
@@ -46,11 +50,10 @@ Dashboard Features:
   - Interactive Filters (Genre, Weekday/Weekend) 
 
 
-<img src="d1.png" width="800"/>
-
 Design System
 Theme: #2C2C2C (Dark Cinematic)
 KPI Colors: Gold & Red
 Visuals:
   - Dynamic Movie Posters (URL-based)
-  - Interactive Slicers
+  - Interactive Slicers 
+
